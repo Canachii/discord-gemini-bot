@@ -29,8 +29,8 @@ Before you start, ensure you have the following tools and libraries:
 
 1. Clone this repository:
 ```shell script
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/Canachii/discord-gemini-bot.git
+cd discord-gemini-bot
 ```
 
 2. Install dependencies:
